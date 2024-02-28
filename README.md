@@ -37,7 +37,7 @@ You need Python >= 3 installed
 
 ### Download
 
-`git clone https://github.com/e-garbage/random-glitcher `
+```git clone https://github.com/e-garbage/random-glitcher ```
 
 ### Install
 
