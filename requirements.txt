@@ -1,0 +1,6 @@
+cv2
+pixelsort
+numpy
+colorama
+PIL
+dotenv
