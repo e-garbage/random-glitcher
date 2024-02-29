@@ -8,7 +8,7 @@ ver=1.2
 #todo: colorama + name checker
 
 #get variables from .env file
-config = dotenv_values (".env")
+config = dotenv_values ("env.env")
 
 input_txt_path = config['input_txt_path']
 input_img_dataset = config['input_img_dataset']
